@@ -3657,7 +3657,7 @@
                                 aA: {
                                     a: [{
                                         p: 5,
-                                        j: "https://gurmina.com/",
+                                        j: "https://instagram.com/toyboss.kz?igshid=YmMyMTA2M2Y=",
                                         k: true
                                     }]
                                 },
